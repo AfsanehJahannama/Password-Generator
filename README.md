@@ -1,4 +1,5 @@
 """Password Generator"""
+
 A simple Python script for generating secure, random passwords. This tool is perfect for creating strong passwords to safeguard your accounts and data.
 
 """Features"""
